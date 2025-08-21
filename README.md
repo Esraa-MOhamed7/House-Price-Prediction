@@ -40,7 +40,7 @@ Trained and compared multiple regression models:
 - Best performance: **XGBoost** with R² = 0.86  
 - Metrics used: R² Score, Mean Squared Error (MSE)
 
-### 6️⃣ Reproducibility & Organization 🗂️ 
+### 6️⃣ Reproducibility & Organization 
 - Saved processed datasets and trained models
 - Structured project folders for clarity and reuse
 - Documented every step in Arabic and English for accessibility
